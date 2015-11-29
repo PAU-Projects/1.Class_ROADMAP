@@ -1,2 +1,7 @@
-# 1.Class_ROADMAP
-PAÜ Bilgisayar Mühendisliği 1. sınıf okul yol haritası, notlar. (How to start 1. class)
+Pamukkale Üniversitesi Bilgisayar Mühendisliği çalışma, kaynakça, not(lar) haritası.
+---------
+
+* [1st Class]()
+* [2nd Class]()
+* [3rd Class]()
+* [4th Class]()
