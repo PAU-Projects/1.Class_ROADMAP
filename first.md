@@ -6,9 +6,9 @@ PAU Bilgisayar Mühendisliği 1. sınıf çalışma, kaynakça, not(lar).
 
 #### **Algoritma ve C programlama**
 * Online Kaynaklar
-	* [Standart C Programlama Dili](http://www.kadifeli.com/fedon/stdcprtr.php)
-	* [Alper Albayrak C kitabı](http://alperbayrak.web.ibu.edu.tr/Ckitabi.pdf)
-	* []()
+	* http://www.kadifeli.com/fedon/stdcprtr.php
+	* http://alperbayrak.web.ibu.edu.tr/Ckitabi.pdf
+	* http://www.bilgigunlugum.net/cprog/c_giris.html
 * Örneker
 	* [C programla dili örnekler](https://github.com/smehemmed/oh-my-C)
 * Video kaynaklar
