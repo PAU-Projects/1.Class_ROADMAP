@@ -5,6 +5,10 @@ PAU Bilgisayar Mühendisliği 1. sınıf çalışma, kaynakça, not(lar).
 * [LDT tablosu](https://github.com/PAU-Projects/BMG/blob/master/doc/tr/LDT_tr.md) 
 
 #### **Algoritma ve C programlama**
+* Online Kaynaklar
+	* [Standart C Programlama Dili](http://www.kadifeli.com/fedon/stdcprtr.php)
+	* [Alper Albayrak C kitabı](http://alperbayrak.web.ibu.edu.tr/Ckitabi.pdf)
+	* []()
 * Örneker
 	* [C programla dili örnekler](https://github.com/smehemmed/oh-my-C)
 * Video kaynaklar
