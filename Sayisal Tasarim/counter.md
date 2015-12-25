@@ -11,4 +11,4 @@
 
 * Sonuç
 
-![[Youtube Video](https://www.youtube.com/watch?v=iQV0EcTMM04)](https://github.com/PAU-Projects/WorkingMap/blob/2nd_class/Sayisal%20Tasarim/img/screen.png)
+[![Youtube Video](https://github.com/PAU-Projects/WorkingMap/blob/2nd_class/Sayisal%20Tasarim/img/screen.png)](https://www.youtube.com/watch?v=iQV0EcTMM04)
