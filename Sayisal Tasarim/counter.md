@@ -5,7 +5,7 @@
     * 7 segment display
     * yeterli atama kablosu
 * Deney prensip şeması 
-![](/blob/2nd_class/Sayisal%20Tasarim/img/sema1.png)
+![](https://github.com/PAU-Projects/WorkingMap/blob/2nd_class/Sayisal%20Tasarim/img/sema1.png)
 * Deney anlatım
 ...
 
