@@ -25,10 +25,12 @@ kadar sayacağı 2n-1 formülüyle hesaplanır. Buradaki n kullanılan flip-flop
 kullanılmış olsaydı bu sayıcı 0'dan 24–1 e yani 15'e kadar sayacaktır.
 
 * Üç bitlik asenkron yukarı sayıcının zaman diyagramı
-![](https://github.com/PAU-Projects/WorkingMap/blob/2nd_class/Sayisal%20Tasarim/img/atablo0.png)
+
+    ![](https://github.com/PAU-Projects/WorkingMap/blob/2nd_class/Sayisal%20Tasarim/img/atablo0.png)
 
 * Üç bitlik asenkron yukarı sayıcı doğruluk tablosu
-![](https://github.com/PAU-Projects/WorkingMap/blob/2nd_class/Sayisal%20Tasarim/img/atablo1.png)
+
+    ![](https://github.com/PAU-Projects/WorkingMap/blob/2nd_class/Sayisal%20Tasarim/img/atablo1.png)
 
 
 * Deney için gereken elemanlar
