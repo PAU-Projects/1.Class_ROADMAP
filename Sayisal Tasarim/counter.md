@@ -1,12 +1,13 @@
-    Dijital sayıcılar asenkron sayıcılar ve senkron sayıcılar olmak üzere ikiye ayrılır.
+### Sayıcılar
+
+Dijital sayıcılar asenkron sayıcılar ve senkron sayıcılar olmak üzere ikiye ayrılır.
 Asenkron sayıcılarda ana tetikleme sinyali flip-floplar’dan sadece birinin (en baştakinin)
 girişine uygulanır. Bu flip-flop'un çıkışı kendisinden bir sonraki flip-flop'un girişine
 uygulanır. Özetle her flip-flop'un çıkışı bir sonraki flip-flop için tetikleme palsi olarak
 kullanılır. Senkron sayıcılarda ise bütün flip-flop'lar aynı tetikleme palsi ile tetiklenir.
 Sayıcılar clock (saat) palsleriyle çalışıyor. Yani sayıcılar girişlerine uygulanan clock
 palslerini sayar.
-<br>
-    Asenkron sayıcıların yapısı çok basittir. Ancak çalışma hızları düşüktür. O nedenle
+ Asenkron sayıcıların yapısı çok basittir. Ancak çalışma hızları düşüktür. O nedenle
 yüksek hızda sayma yapamaz. Asenkron sayıcıyı oluşturan flip flop’ların “clock palsleri” bir
 önceki flip flop’un çıkışından alınmaktadır. İşte bu durum bir zaman gecikmesine neden
 olmaktadır. Asenkron sayıcılarda kullanılan FF( flip-flop ) sayısı arttıkça devrenin hızı düşer.
@@ -17,8 +18,8 @@ olacaktır.
    * Senkron sayıcılar asenkron sayıcılardan daha hızlı ve hatasız çalışır.
    * Senkron sayıcılar paralel asenkron sayıcılar ise seri sayıcı olarak da adlandırılır.
    * Uygulamada kullanılan sayıcılar, yukarı, aşağı ve yukarı/aşağı olmak üzere üç farklı şekilde çalıştırılabilir.
-<br>
-    Bir sayıcının sayma modu kullanılan flip-flop sayısıyla orantılıdır. Sayıcının, kaça
+
+Bir sayıcının sayma modu kullanılan flip-flop sayısıyla orantılıdır. Sayıcının, kaça
 kadar sayacağı 2n-1 formülüyle hesaplanır. Buradaki n kullanılan flip-flop sayısıdır. Örneğin
 3 flip-flop’tan oluşan bir sayıcı 0'dan 23-1’e yani 7'ye kadar sayabilir. 4 tane flip-flop
 kullanılmış olsaydı bu sayıcı 0'dan 24–1 e yani 15'e kadar sayacaktır.
