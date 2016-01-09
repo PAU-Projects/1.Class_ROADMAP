@@ -6,7 +6,7 @@ PAU Bilgisayar Mühendisliği 1. sınıf çalışma, kaynakça, not(lar).
 * [LDT tablosu](https://github.com/PAU-Projects/BMG/blob/master/doc/tr/LDT_tr.md) 
 * [Birleştirme Sıralaması (Merge List)](http://bilgisayarkavramlari.sadievrenseker.com/2008/08/09/birlestirme-siralamasi-merge-sort/)
 * [Sıralama Algoritmaları (Sorting Algorithms)](http://www.bilgisayarkavramlari.com/2008/08/09/siralama-algoritmalari-sorting-algorithms/)
-
+* [Turing Makinesi](http://bilgisayarkavramlari.sadievrenseker.com/2009/06/27/turing-makinesi-turing-machine/)
 ### *Algoritma ve C programlama*
 * **Online Kaynaklar**
 	* http://www.kadifeli.com/fedon/stdcprtr.php
