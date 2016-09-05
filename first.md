@@ -20,7 +20,8 @@ PAU Bilgisayar Mühendisliği 1. sınıf çalışma, kaynakça, not(lar).
 * **Video kaynaklar**
 	* [Volkan Kılıç C Programlama Dersleri](https://www.youtube.com/watch?v=FtaKEn2f2qI&list=PLfzhcDNz4tlXOvEE7z_u3gEqFO3nwIZ5i)
 	* [Ahmet Anıl   C Programlama Dersleri](https://www.youtube.com/watch?v=yk-veEcY1WI&list=PLIBhH-mHowD83SA8K69Yb40wiOjn7McQK)
-	* [Şadi Evren C Programlama Dersleri](https://www.youtube.com/watch?v=8iHifEiMYPs&index=1&list=PLh9ECzBB8tJNzJqD64MAS0SK5IeNCKCzY)
+    * [Şadi Evren C Programlama Dersleri](https://www.youtube.com/watch?v=8iHifEiMYPs&index=1&list=PLh9ECzBB8tJNzJqD64MAS0SK5IeNCKCzY)
+	* [Yazılım bilimi C Programlama Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHdFsJRo5oYG7yQ4NyUx43ql)
 
 ### *Fizik - 1*
 
