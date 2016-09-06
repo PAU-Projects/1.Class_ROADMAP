@@ -1,11 +1,13 @@
 ## Hesap Makinesi problemi
 
 ### v1
-Kullanıcı tarafından girilen iki sayının *(örn: 1, -4, 5.4)* dört işlem(*topla, çarp, böl, çıkar*) yaptıran **basit c programı**.
+Kullanıcı tarafından girilen iki sayının *(örn: 1, -4, 5.4)* dört işlem(*topla, çarp, böl, çıkar*) yaptıran **basit c programı** yazınız.
 
 ### v2
-Kulanıcı tarafindan girilen iki sayının  *(örn: 1, -4, 5.4)* dört işlem(*topla, çarp, böl, çıkar*) yaptıran, **fonksiyonel c programı** (*açıklama:* dört işlem fonsiyonlar aracılığı ile yapılacaktır).
+Kulanıcı tarafindan girilen iki sayının  *(örn: 1, -4, 5.4)* dört işlem(*topla, çarp, böl, çıkar*) yaptıran, **fonksiyonel c programı** (*açıklama:* dört işlem fonsiyonlar aracılığı ile yazınız).
 
+### v3
+Kulanıcı tarafindan girilen iki sayının  *(örn: 1, -4, 5.4)* dört işlem(*topla, çarp, böl, çıkar*) yaptıran, fonksiyonel ve **pointer** kullanarak c programı yazınız. 
 -----------------------------------
 **Ekran Çıktısı** (örnek:)
 ```C
