@@ -23,7 +23,7 @@ iki sayının Çıkarımı= -5.2
 ```
 
 ### v4 
-Program tarafından dosyadan(*örn:`sayilar.txt`) okunan iki sayıyı dört işlem(*topla, çarp, böl, çıkar*) yaptıran ve sonuçları tekrar dosyaya(*örn:`sonuc.txt`) yazan, fonksiyonel ve pointer kullanarak C programı yazınız. <br>
+Program tarafından dosyadan(*örn:`sayilar.txt`) okunan iki sayıyı dört işlem(*topla, çarp, böl, çıkar*) yaptıran ve sonuçları tekrar dosyaya(*örn:*`sonuc.txt`) yazan, fonksiyonel ve pointer kullanarak C programı yazınız. <br>
 
 **Hata kontrolleri**
 * Dosya okunmadığı durumda: *Dosya okunamadı*
@@ -40,3 +40,7 @@ Veriler dosyaya yaıldı.
 ### Çözümler
 > Problem çözümlerine, sorulara, yorumlara [link](https://github.com/PAU-Projects/WorkingMap/issues/1)'ten ulaşa bilirsiniz.
 
+
+|  [Problemler Sayfası](https://github.com/PAU-Projects/WorkingMap/blob/1st_class/c/README.md#c-programlama-dili-problem-ve-%C3%A7%C3%B6z%C3%BCmleri) |
+|---|
+||
