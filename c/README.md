@@ -21,9 +21,9 @@
 Linke tıkladıktan sonra sayfanın sonunda öneri,düşünce yazılacak yer bulunmakta bu alanda aynı zamanda `selecting item` seceneği bulunmakta. Buraya dosyanızı `.zip` ve ya `.txt` olarak yükleyip programınız hakkında bilgi verip(*örn: Hesap Makinesi v4' ü tamamladım. *) comment yaparak işlemi tamamlaya bilirsiniz. <br>  
 
 *Örnek: soru sormak, dosya yükleme, ve comment yapılacak alan resimde bulunmaktadır.*<br>
-![Select Item](https://github.com/PAU-Projects/WorkingMap/blob/1st_class/c/exp/img/selectitem.png) <br>
+![Select Item](https://github.com/PAU-Projects/WorkingMap/blob/1st_class/c/exp/img/selectingitem.png.png) <br>
 
 *Değişikliklerden haberdar olmak için `watch` seceneğini aktiv etmeniz yeterli*
 <br>
-![Select Item](https://github.com/PAU-Projects/WorkingMap/blob/1st_class/c/exp/img/watchrepo.png) <br>
+![Watchin Repo](https://github.com/PAU-Projects/WorkingMap/blob/1st_class/c/exp/img/watchrepo.png) <br>
 
