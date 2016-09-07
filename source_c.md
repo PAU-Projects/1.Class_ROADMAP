@@ -19,6 +19,11 @@
 ### pdf
 
 - https://www.inonu.edu.tr/uploads/old/5/537/242c.pdf
-- http://alperbayrak.web.ibu.edu.tr/Ckitabi.pdf
+
+
+-------
+
+ [Problemler Sayfası](https://github.com/PAU-Projects/WorkingMap/blob/1st_class/c/README.md#c-programlama-dili-problem-ve-%C3%A7%C3%B6z%C3%BCmleri) | 
+---|---
 
 
