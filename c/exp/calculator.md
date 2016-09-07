@@ -29,7 +29,7 @@ Program tarafından dosyadan(*örn:`sayilar.txt`) okunan iki sayıyı dört işl
 * Dosya okunmadığı durumda: *Dosya okunamadı*
 * Dosyaya veri yazılmadığı durumda *Dosyaya veri yazılamadı*
 
-**v4 için Ekran çıktısı** (örenk: dizayın serbest)
+**v4 için Ekran çıktısı** (örnek: dizayın serbest)
 
 ```C
 Dosya okuma başarılı.
@@ -38,9 +38,5 @@ Veriler dosyaya yaıldı.
 
 
 ### Çözümler
-> Problemim çözümleri kontrol etmek amaçlı. 
+> Problem çözümlerine, sorulara, yorumlara [link](https://github.com/PAU-Projects/WorkingMap/issues/1)'ten ulaşa bilirsiniz.
 
-* [v1]()
-* [v2]()
-* [v3]()
-* [v4]()
