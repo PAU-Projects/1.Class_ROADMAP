@@ -1,5 +1,6 @@
-### C Programlama dili problem ve çözümleri
+## C Programlama dili problem ve çözümleri
 > Problem seç > versiyonları tamamla > senin kodunun daha kullanışlı veya güzel olduğunu düşünüyorsan bize gönder: `msxiyev@gmail.com` :smiley:
+### [C programlama dili klavuz](https://github.com/PAU-Projects/WorkingMap/blob/1st_class/source_c.md)
 
 ### Problemler
 - [Hesap Makinesi](https://github.com/PAU-Projects/WorkingMap/blob/1st_class/c/exp/calculator.md)
