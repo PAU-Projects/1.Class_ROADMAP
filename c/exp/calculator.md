@@ -8,8 +8,9 @@ Kulanıcı tarafindan girilen iki sayının  *(örn: 1, -4, 5.4)* dört işlem(*
 
 ### v3
 Kulanıcı tarafindan girilen iki sayının  *(örn: 1, -4, 5.4)* dört işlem(*topla, çarp, böl, çıkar*) yaptıran, fonksiyonel ve **pointer** kullanarak c programı yazınız. 
------------------------------------
-**Ekran Çıktısı** (örnek:)
+
+
+**v1, v2 ve v3 için Ekran Çıktısı** (örnek:)
 ```C
 Bir sayı giriniz   : -5
 İkinci sayi giriniz: 0.2
@@ -20,6 +21,21 @@ iki sayının Çarpımı = -1
 iki sayının Bölümü  = -25
 iki sayının Çıkarımı= -5.2
 ```
+
+### v4 
+Program tarafından dosyadan(*örn:`sayilar.txt`) okunan iki sayıyı dört işlem(*topla, çarp, böl, çıkar*) yaptıran ve sonuçları tekrar dosyaya(*örn:`sonuc.txt`) yazan, fonksiyonel ve pointer kullanarak C programı yazınız. <br>
+
+**Hata kontrolleri**
+* Dosya okunmadığı durumda: *Dosya okunamadı*
+* Dosyaya veri yazılmadığı durumda *Dosyaya veri yazılamadı*
+
+**v4 için Ekran çıktısı** (örenk: dizayın serbest)
+
+```C
+Dosya okuma başarılı.
+Veriler dosyaya yaıldı.
+```
+
 
 ### Çözümler
 > Problemim çözümleri kontrol etmek amaçlı. 
