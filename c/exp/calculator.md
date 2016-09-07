@@ -43,4 +43,4 @@ Veriler dosyaya yaıldı.
 
   [Problemler Sayfası](https://github.com/PAU-Projects/WorkingMap/blob/1st_class/c/README.md#c-programlama-dili-problem-ve-%C3%A7%C3%B6z%C3%BCmleri) | 
 ---|---
-|
+   
